@@ -1,0 +1,38 @@
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 20vw;
+    height: 35vh;
+    min-width: 20rem;
+    min-height: 25rem;
+    background-color: rgb(228, 228, 228);
+    border-radius: 10px;
+    z-index: 200;
+    display: flex;
+    flex-direction: column;
+}
+
+.modal .modal-header {
+    height: 3rem;
+    border-radius: 10px 10px 0 0;
+    background-color: #980f5a;
+    position: relative;
+}
+
+.modal .modal-header h2 {
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0.4rem;
+    cursor: pointer;
+}
+
+.modal .modal-body {
+    height: 100%;
+    display: grid;
+    place-content: center;
+}

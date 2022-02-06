@@ -1,0 +1,89 @@
+.top_details {
+    position: fixed;
+    background: #750550;
+    padding: 5px;
+    color: #fff;
+    width: 70%;
+    /* right: 15%;
+    left: 14%; */
+    /* border: 1px solid #ff0086; */
+    margin-bottom: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    /* font-weight: bold; */
+}
+
+.home_icon {
+    font-size: 15px;
+}
+
+.search_area {
+    display: flex;
+}
+
+.search_input {
+    background: transparent;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    color: #ffffff !important;
+    font-size: 15px;
+    border-bottom: 1px solid #ff0086;
+    /* margin-right: 0.5rem; */
+}
+
+
+/* do not group these rules */
+
+.search_input::-webkit-input-placeholder {
+    color: white;
+}
+
+.search_input:-moz-placeholder {
+    /* FF 4-18 */
+    color: white;
+    opacity: 1;
+}
+
+.search_input::-moz-placeholder {
+    /* FF 19+ */
+    color: white;
+    opacity: 1;
+}
+
+.search_input:-ms-input-placeholder {
+    /* IE 10+ */
+    color: white;
+}
+
+.search_input::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: white;
+}
+
+.search_input::placeholder {
+    /* modern browser */
+    color: white;
+}
+
+.search_input:focus {
+    outline: none;
+}
+
+.search_form {
+    margin-right: 1rem;
+}
+
+.seacrh-icon {
+    cursor: pointer;
+}
+
+.filter_icon {
+    margin-right: 0.5rem;
+    font-size: 14px;
+}
+
+.top_details_icon {
+    font-size: 14px;
+    font-weight: 100;
+}

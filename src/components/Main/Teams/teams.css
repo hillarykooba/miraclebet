@@ -1,0 +1,170 @@
+.odd_title {
+    flex: 1;
+    order: 1;
+    background-color: #935074;
+    /* margin-right: .1rem; */
+    padding: 0.6rem;
+    color: #ffffff;
+    font-size: 13px;
+    /* padding-top: .4rem;
+    padding-left: .2rem;
+    padding-right: .2rem; */
+}
+
+.odd_value {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    order: 1;
+    padding: 0.6rem;
+    color: #ffffff;
+    font-size: 12px;
+    justify-content: space-between;
+}
+
+.odd_value span {
+    justify-content: space-between;
+}
+
+.list_more_odds_btn {
+    cursor: pointer;
+}
+
+.teams {
+    flex: 1;
+    order: 1;
+    background-color: #980f5a6e;
+    /* margin-right: .1rem; */
+    padding: 0.6rem;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 13px;
+    padding-top: 0.8rem;
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+}
+
+.odd:nth-child(even) {
+    /* background: #750550; */
+    background: #980f5a6e;
+}
+
+.odd:nth-child(odd) {
+    background: #570530;
+}
+
+.odd {
+    color: #ffffff;
+    cursor: pointer;
+    /* padding-top: 0.8rem; */
+}
+
+.odd:hover {
+    color: #ff0086;
+    font-weight: 600;
+}
+
+.oddSelected {
+    display: flex;
+    flex: 1;
+    order: 1;
+    padding: 0.6rem;
+    color: #ffffff;
+    font-size: 12px;
+    justify-content: space-between;
+    cursor: pointer;
+    background: #ff0086 !important;
+    /* color: #ffffff; */
+    font-weight: 600;
+}
+
+.oddSelected:hover {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.odd:focus {
+    background: #ff0086;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.f_logo {
+    width: 3%;
+    font-size: 13px;
+    padding: 0.4rem;
+    top: -50%;
+    color: #ffffff;
+    align-items: center;
+    text-align: center;
+    /* font-weight: 500; */
+    background: #570530;
+    order: 1;
+    /* margin-bottom: -0.1rem; */
+}
+
+.stat {
+    width: 3%;
+    font-size: 13px;
+    padding-top: 0.8rem;
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+    top: -50%;
+    color: #ffffff;
+    align-items: center;
+    text-align: center;
+    font-weight: 500;
+    background: #980f5a6e;
+    order: 1;
+    /* margin-right: .1rem; */
+}
+
+.game_id {
+    width: 6%;
+    font-size: 13px;
+    padding-top: 0.4rem;
+    /* padding-left: .4rem; */
+    /* padding-right: .4rem; */
+    /* top: -50%; */
+    color: #ffffff;
+    align-items: center;
+    text-align: center;
+    font-weight: 500;
+    background: #980f5a6e;
+    order: 1;
+    margin-right: 0.1rem;
+}
+
+.game_id span {
+    background-color: #570530;
+    padding: 0.08rem;
+    margin-top: 0.1rem;
+    border-radius: 3px;
+}
+
+.home_1 {
+    width: 3%;
+    font-size: 13px;
+    padding-top: 0.8rem;
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+    top: -50%;
+    color: #ffffff;
+    align-items: center;
+    text-align: center;
+    font-weight: 500;
+    background: #750550;
+    order: 1;
+    /* margin-right: .1rem; */
+}
+
+.odds_columns {
+    display: flex;
+    flex: 1;
+    /* margin-bottom: .1rem; */
+}
+
+.odd_child {
+    display: grid;
+    flex: 0 1 100px;
+}

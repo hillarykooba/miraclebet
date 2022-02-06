@@ -1,0 +1,90 @@
+.main_slider__container {
+    display: flex;
+    /* max-width: 2400px; */
+    /* overflow-x: scroll; */
+}
+
+.main_slider {
+    /* background: rgb(87, 5, 48); */
+    background: linear-gradient( 90deg, rgba(87, 5, 48, 1) 0%, rgba(152, 15, 90, 1) 50%, rgba(87, 5, 48, 1) 100%);
+    border: 1px solid #ff0086;
+    width: 25%;
+    margin-bottom: 0.8rem;
+    margin-right: 10px;
+}
+
+.main_slider__league {
+    background: #4c0027;
+    color: #ffffff;
+    text-decoration: underline;
+    padding: 0.3rem;
+    font-size: 13px;
+}
+
+.main_slider__match_date {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.3rem;
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #ff0086;
+}
+
+.main_slider__match_date_time {
+    color: #ffffff;
+}
+
+.main_slider__match_teams {
+    background: rgb(76, 0, 39);
+    background: radial-gradient( circle, rgba(76, 0, 39, 1) 0%, rgba(87, 5, 48, 0.8631827731092436) 53%, rgba(152, 15, 90, 1) 100%);
+    border: 1px solid #ff0086;
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem;
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.main_slider__match_teams_home {
+    display: inline-flex;
+    align-items: center;
+    /* border-right: 1px solid #ff0086; */
+}
+
+.main_slider__match_teams_home span {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.main_slider__odd_type {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.3rem;
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.main_slider__odds {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.3rem;
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.main_slider__odd {
+    display: flex;
+    justify-content: space-between;
+    background-color: #980f5a;
+    padding: 0.3rem;
+    width: 100%;
+    margin-right: 0.2rem;
+    cursor: pointer;
+    border-radius: 2px solid #980f5a;
+    transition: 0.5s;
+    font-size: 13px;
+}
+
+.main_slider__odd:hover {
+    background-color: #980f5abf;
+}

@@ -1,0 +1,297 @@
+.ticket {
+    display: flex;
+    flex-direction: column;
+    /* width: 500px; */
+    /* height: 300px; */
+    /* background: #f1f1f1; */
+    /* margin: 100px auto 0; */
+    word-break: break-all;
+    /* border: 1px solid rgba(0, 0, 0, 0.274); */
+}
+
+.contentsFixedTop {
+    top: 16%;
+    position: fixed;
+    right: 19px;
+    width: 14%;
+    height: 45%;
+    overflow-y: scroll;
+}
+
+.contentsFixedBottom {
+    top: 61%;
+    width: 14%;
+    position: fixed;
+}
+
+.myBets {
+    top: 32%;
+}
+
+.bloc-tabs {
+    display: flex;
+    position: fixed;
+    right: 19px;
+    width: 14%;
+    z-index: 0.9;
+}
+
+.tabs {
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    width: 50%;
+    color: #570530;
+    background: #ff0086;
+    cursor: pointer;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.274);
+    box-sizing: contents-box;
+    position: relative;
+    outline: none;
+}
+
+.tabs:not(:last-child) {
+    border-right: 1px solid rgba(0, 0, 0, 0.274);
+}
+
+.active-tabs {
+    background: white;
+    border-bottom: 1px solid transparent;
+}
+
+.active-tabs::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: calc(100% + 2px);
+    height: 5px;
+    background: #980f5a;
+}
+
+button {
+    border: none;
+}
+
+.contents-tabs {
+    flex-grow: 1;
+}
+
+.contents {
+    /* background: rgb(255, 255, 255); */
+    /* padding: 10px; */
+    /* width: 100%; */
+    /* height: 100%; */
+    display: none;
+}
+
+.contents h2 {
+    padding: 0px 0 5px 0px;
+}
+
+.contents hr {
+    width: 100px;
+    height: 2px;
+    background: #222;
+    margin-bottom: 5px;
+}
+
+.contents p {
+    width: 100%;
+    height: 100%;
+}
+
+.active-contents {
+    display: block;
+}
+
+.selected_odds:nth-child(even) {
+    background: #750550;
+}
+
+.selected_odds:nth-child(odd) {
+    background: #980f5a;
+}
+
+.selected_odds {
+    /* background-color: #750550; */
+    /* padding: 10px; */
+    padding: 5px 10px 4px;
+    color: #ffffff;
+    font-size: 12px;
+    word-wrap: break-word;
+    /* border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom: 1px solid #ff0086; */
+}
+
+.selected_odds:first-child {
+    /* border-top: 1px solid #ff0086;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px; */
+}
+
+.selected_odds:last-child {
+    /* border-bottom-left-radius: 0px !important;
+    border-bottom-right-radius: 0px;
+    border-bottom-right-radius: 0%; */
+}
+
+.selected_odds__title {
+    white-space: unset;
+    display: flex;
+    padding: 5px 0px 4px;
+    justify-content: space-between;
+}
+
+.selected_oods__odd {
+    display: flex;
+    padding: 5px 0px 4px;
+    font-size: 11px;
+    justify-content: space-between;
+}
+
+.selected_o_o {
+    background: #ff0086;
+    padding: 0.1rem;
+    border-radius: 2px;
+    /* font-weight: bold; */
+    width: 15%;
+    align-items: center;
+    text-align: center;
+}
+
+.selected_odds__total_odds {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    padding: 5px;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.stake_input {
+    font-size: 20px;
+    font-weight: bolder;
+    width: 128px;
+    line-height: 24px;
+    height: 24px !important;
+    border: none;
+    /* margin-right: 5px; */
+    align-items: center;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.9);
+    /* padding-left: 10px; */
+    padding: 3px 6px;
+    display: inline-block;
+    vertical-align: middle;
+    background: rgb(211, 211, 212);
+}
+
+.stake-btn {
+    background-color: #980f5a;
+    line-height: 24px;
+    font-weight: bolder;
+    padding: 3px 6px;
+    height: 24px !important;
+    cursor: pointer;
+    width: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+}
+
+.selected_odds__amount_buttons {
+    display: flex;
+    justify-content: space-between;
+    background-color: #980f5a;
+    padding: 0.5rem;
+}
+
+.selected_odds__amount_buttons button {
+    padding: 8px;
+    width: 100%;
+    margin-right: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #570530;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.selected_odds__amount_buttons button:hover {
+    background-color: #ff0086;
+    color: #ffffff;
+}
+
+.register {
+    background-color: #43fe08;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.register button {
+    background-color: transparent;
+    font-weight: bolder;
+    font-size: large;
+    color: #570530;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+.register:hover {
+    background-color: #ffffff;
+    color: #222;
+}
+
+.place_bet {
+    background-color: #980f5a;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    transition: 0.5s;
+}
+
+.place_bet button {
+    background: rgb(152, 15, 90);
+    background: linear-gradient( 45deg, rgba(152, 15, 90, 1) 0%, rgba(87, 5, 48, 1) 51%, rgba(153, 6, 90, 1) 100%);
+    font-weight: bolder;
+    width: 90%;
+    font-size: large;
+    border: 1px solid #43fe08;
+    color: #ffffff;
+    letter-spacing: 2px;
+    cursor: pointer;
+    transition: 0.5s;
+    padding: 15px;
+}
+
+.place_bet button:hover {
+    background: #ffffff;
+    color: #222;
+}
+
+.selected_odds__theteams {
+    display: flex;
+    white-space: nowrap;
+    overflow-x: hidden;
+    /* text-overflow: clip; */
+}
+
+.ticket-teams {
+    text-transform: uppercase;
+}
+
+.delete_ticket {
+    cursor: pointer;
+}

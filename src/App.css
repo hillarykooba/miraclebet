@@ -1,0 +1,56 @@
+.main-content {
+    padding-top: 100px;
+}
+
+.content {
+    display: flex;
+    flex: 1;
+    color: #000;
+}
+
+.columns {
+    display: flex;
+    flex: 1;
+    border-bottom: 1px solid #8b3552;
+    /* margin-bottom: 0.1rem; */
+}
+
+.main {
+    flex: 1;
+    order: 2;
+    background-color: #570530;
+    margin-right: 0.2rem;
+    margin-bottom: 0.1rem;
+    position: absolute;
+    left: 15%;
+    right: 15%;
+}
+
+.sidebar-first {
+    overflow-y: scroll;
+    width: 14%;
+    height: 85%;
+    position: fixed;
+    order: 1;
+    margin-right: 0.4rem;
+}
+
+.sidebar-second {
+    width: 14%;
+    order: 3;
+    position: fixed;
+    right: 1%;
+    height: 85%;
+    overflow-y: scroll;
+}
+
+.difc {
+    display: flex;
+    align-items: center;
+    /* border-right: 1px solid #ff0086; */
+}
+
+.difc span {
+    margin-left: 3px;
+    margin-right: 3px;
+}

@@ -1,0 +1,6054 @@
+[
+  {
+    "fixture": {
+      "id": 836881,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T00:00:00+00:00",
+      "timestamp": 1644796800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 482,
+        "name": "Khaled Bichara Stadium",
+        "city": "El-Gouna"
+      },
+      "status": {
+        "long": "Time to be defined",
+        "short": "TBD",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 233,
+      "name": "Premier League",
+      "country": "Egypt",
+      "logo": "https://media.api-sports.io/football/leagues/233.png",
+      "flag": "https://media.api-sports.io/flags/eg.svg",
+      "season": 2021,
+      "round": "Regular Season - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 1574,
+        "name": "El Gouna FC",
+        "logo": "https://media.api-sports.io/football/teams/1574.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1577,
+        "name": "Al Ahly",
+        "logo": "https://media.api-sports.io/football/teams/1577.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 825274,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T00:15:00+00:00",
+      "timestamp": 1644797700,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 72,
+        "name": "Estadio Ciudad de Río Cuarto",
+        "city": "Ciudad de Río Cuarto, Provincia de Córdoba"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 129,
+      "name": "Primera B Nacional",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/129.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2022,
+      "round": "Regular Season - 1"
+    },
+    "teams": {
+      "home": {
+        "id": 2424,
+        "name": "Estudiantes de Rio Cuarto",
+        "logo": "https://media.api-sports.io/football/teams/2424.png",
+        "winner": null
+      },
+      "away": {
+        "id": 478,
+        "name": "Instituto Cordoba",
+        "logo": "https://media.api-sports.io/football/teams/478.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 831677,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T00:30:00+00:00",
+      "timestamp": 1644798600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 128,
+      "name": "Primera Division",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/128.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2022,
+      "round": "1st Phase - 1"
+    },
+    "teams": {
+      "home": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media.api-sports.io/football/teams/451.png",
+        "winner": null
+      },
+      "away": {
+        "id": 448,
+        "name": "Colon Santa Fe",
+        "logo": "https://media.api-sports.io/football/teams/448.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 831902,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T01:00:00+00:00",
+      "timestamp": 1644800400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 338,
+      "name": "Primera Division",
+      "country": "Guatemala",
+      "logo": "https://media.api-sports.io/football/leagues/338.png",
+      "flag": "https://media.api-sports.io/flags/gt.svg",
+      "season": 2021,
+      "round": "Clausura - 6"
+    },
+    "teams": {
+      "home": {
+        "id": 4904,
+        "name": "Xinabajul",
+        "logo": "https://media.api-sports.io/football/teams/4904.png",
+        "winner": null
+      },
+      "away": {
+        "id": 13904,
+        "name": "Puerto San José",
+        "logo": "https://media.api-sports.io/football/teams/13904.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 823160,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T01:10:00+00:00",
+      "timestamp": 1644801000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1779,
+        "name": "Estadio de Fútbol Jaraguay de Montería",
+        "city": "Montería"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 239,
+      "name": "Primera A",
+      "country": "Colombia",
+      "logo": "https://media.api-sports.io/football/leagues/239.png",
+      "flag": "https://media.api-sports.io/flags/co.svg",
+      "season": 2022,
+      "round": "Apertura - 6"
+    },
+    "teams": {
+      "home": {
+        "id": 1133,
+        "name": "Jaguares",
+        "logo": "https://media.api-sports.io/football/teams/1133.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1142,
+        "name": "Deportes Tolima",
+        "logo": "https://media.api-sports.io/football/teams/1142.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 819188,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T03:00:00+00:00",
+      "timestamp": 1644807600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1846,
+        "name": "Estadio Héroe de Nacozari",
+        "city": "Hermosillo"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 263,
+      "name": "Ascenso MX",
+      "country": "Mexico",
+      "logo": "https://media.api-sports.io/football/leagues/263.png",
+      "flag": "https://media.api-sports.io/flags/mx.svg",
+      "season": 2021,
+      "round": "Clausura - 1"
+    },
+    "teams": {
+      "home": {
+        "id": 2301,
+        "name": "Cimarrones",
+        "logo": "https://media.api-sports.io/football/teams/2301.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2307,
+        "name": "Leones Negros UDG",
+        "logo": "https://media.api-sports.io/football/teams/2307.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 823555,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T08:15:00+00:00",
+      "timestamp": 1644826500,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 840,
+        "name": "Stadion Kapten I Wayan Dipta",
+        "city": "Gianyar"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 274,
+      "name": "Super League",
+      "country": "Indonesia",
+      "logo": "https://media.api-sports.io/football/leagues/274.png",
+      "flag": "https://media.api-sports.io/flags/id.svg",
+      "season": 2021,
+      "round": "Regular Season - 25"
+    },
+    "teams": {
+      "home": {
+        "id": 2453,
+        "name": "Barito Putera",
+        "logo": "https://media.api-sports.io/football/teams/2453.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2440,
+        "name": "Persipura Jayapura",
+        "logo": "https://media.api-sports.io/football/teams/2440.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 823556,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T08:15:00+00:00",
+      "timestamp": 1644826500,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadion Kompyang Sujana Denpasar",
+        "city": "Denpasar"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 274,
+      "name": "Super League",
+      "country": "Indonesia",
+      "logo": "https://media.api-sports.io/football/leagues/274.png",
+      "flag": "https://media.api-sports.io/flags/id.svg",
+      "season": 2021,
+      "round": "Regular Season - 25"
+    },
+    "teams": {
+      "home": {
+        "id": 4241,
+        "name": "Persik Kediri",
+        "logo": "https://media.api-sports.io/football/teams/4241.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2450,
+        "name": "Persela Lamongan",
+        "logo": "https://media.api-sports.io/football/teams/2450.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 815844,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T08:30:00+00:00",
+      "timestamp": 1644827400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Naihati Stadium",
+        "city": "Naihati"
+      },
+      "status": {
+        "long": "Match Postponed",
+        "short": "PST",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 324,
+      "name": "I-League",
+      "country": "India",
+      "logo": "https://media.api-sports.io/football/leagues/324.png",
+      "flag": "https://media.api-sports.io/flags/in.svg",
+      "season": 2021,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 9261,
+        "name": "TRAU",
+        "logo": "https://media.api-sports.io/football/teams/9261.png",
+        "winner": null
+      },
+      "away": {
+        "id": 15586,
+        "name": "Sudeva",
+        "logo": "https://media.api-sports.io/football/teams/15586.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 834843,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T09:00:00+00:00",
+      "timestamp": 1644829200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Shahid Ahsan Ullah Master Stadium",
+        "city": "Tongi"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 398,
+      "name": "Premier League",
+      "country": "Bangladesh",
+      "logo": "https://media.api-sports.io/football/leagues/398.png",
+      "flag": "https://media.api-sports.io/flags/bd.svg",
+      "season": 2022,
+      "round": "Regular Season - 3"
+    },
+    "teams": {
+      "home": {
+        "id": 5010,
+        "name": "Abahani Chittagong",
+        "logo": "https://media.api-sports.io/football/teams/5010.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5014,
+        "name": "Mohammedan Dhaka",
+        "logo": "https://media.api-sports.io/football/teams/5014.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 834844,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T09:00:00+00:00",
+      "timestamp": 1644829200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Shaheed Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium",
+        "city": "Munshiganj"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 398,
+      "name": "Premier League",
+      "country": "Bangladesh",
+      "logo": "https://media.api-sports.io/football/leagues/398.png",
+      "flag": "https://media.api-sports.io/flags/bd.svg",
+      "season": 2022,
+      "round": "Regular Season - 3"
+    },
+    "teams": {
+      "home": {
+        "id": 5628,
+        "name": "Baridhara",
+        "logo": "https://media.api-sports.io/football/teams/5628.png",
+        "winner": null
+      },
+      "away": {
+        "id": 18359,
+        "name": "Swadhinata KS",
+        "logo": "https://media.api-sports.io/football/teams/18359.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 751354,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T10:00:00+00:00",
+      "timestamp": 1644832800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 4795,
+        "name": "Maltepe Hasan Polat Stadı",
+        "city": "İstanbul"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 553,
+      "name": "3. Lig - Group 2",
+      "country": "Turkey",
+      "logo": "https://media.api-sports.io/football/leagues/553.png",
+      "flag": "https://media.api-sports.io/flags/tr.svg",
+      "season": 2021,
+      "round": "Group 2 - 25"
+    },
+    "teams": {
+      "home": {
+        "id": 7406,
+        "name": "Halide Edip Adıvar",
+        "logo": "https://media.api-sports.io/football/teams/7406.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7430,
+        "name": "Şile Yıldızspor",
+        "logo": "https://media.api-sports.io/football/teams/7430.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 815845,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T11:00:00+00:00",
+      "timestamp": 1644836400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 2271,
+        "name": "Kalyani Stadium",
+        "city": "Kalyani"
+      },
+      "status": {
+        "long": "Match Postponed",
+        "short": "PST",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 324,
+      "name": "I-League",
+      "country": "India",
+      "logo": "https://media.api-sports.io/football/leagues/324.png",
+      "flag": "https://media.api-sports.io/flags/in.svg",
+      "season": 2021,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 3464,
+        "name": "Gokulam",
+        "logo": "https://media.api-sports.io/football/teams/3464.png",
+        "winner": null
+      },
+      "away": {
+        "id": 3465,
+        "name": "Indian Arrows",
+        "logo": "https://media.api-sports.io/football/teams/3465.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 823554,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T11:15:00+00:00",
+      "timestamp": 1644837300,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadion Ngurah Rai",
+        "city": "Denpasar"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 274,
+      "name": "Super League",
+      "country": "Indonesia",
+      "logo": "https://media.api-sports.io/football/leagues/274.png",
+      "flag": "https://media.api-sports.io/flags/id.svg",
+      "season": 2021,
+      "round": "Regular Season - 25"
+    },
+    "teams": {
+      "home": {
+        "id": 2444,
+        "name": "Persepam Madura Utd",
+        "logo": "https://media.api-sports.io/football/teams/2444.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4242,
+        "name": "Persiraja Banda Aceh",
+        "logo": "https://media.api-sports.io/football/teams/4242.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 794522,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T13:00:00+00:00",
+      "timestamp": 1644843600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Lancashire FA County Ground",
+        "city": "Leyland, Lancashire"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 871,
+      "name": "Premier League Cup",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/871.png",
+      "flag": "https://media.api-sports.io/flags/gb.svg",
+      "season": 2021,
+      "round": "Group Stage - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 11916,
+        "name": "Blackburn Rovers U23",
+        "logo": "https://media.api-sports.io/football/teams/11916.png",
+        "winner": null
+      },
+      "away": {
+        "id": 15649,
+        "name": "Queens Park Rangers U23",
+        "logo": "https://media.api-sports.io/football/teams/15649.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 794523,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T13:00:00+00:00",
+      "timestamp": 1644843600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 12052,
+        "name": "Select Car Leasing Stadium",
+        "city": "Reading, Berkshire"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 871,
+      "name": "Premier League Cup",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/871.png",
+      "flag": "https://media.api-sports.io/flags/gb.svg",
+      "season": 2021,
+      "round": "Group Stage - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 11924,
+        "name": "Reading U23",
+        "logo": "https://media.api-sports.io/football/teams/11924.png",
+        "winner": null
+      },
+      "away": {
+        "id": 11919,
+        "name": "Derby County U23",
+        "logo": "https://media.api-sports.io/football/teams/11919.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 821980,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T13:00:00+00:00",
+      "timestamp": 1644843600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Ar-Rass Stadium",
+        "city": "Rass"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 308,
+      "name": "Division 1",
+      "country": "Saudi-Arabia",
+      "logo": "https://media.api-sports.io/football/leagues/308.png",
+      "flag": "https://media.api-sports.io/flags/sa.svg",
+      "season": 2021,
+      "round": "Regular Season - 24"
+    },
+    "teams": {
+      "home": {
+        "id": 10509,
+        "name": "Al Kholood",
+        "logo": "https://media.api-sports.io/football/teams/10509.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2928,
+        "name": "Al Khaleej Saihat",
+        "logo": "https://media.api-sports.io/football/teams/2928.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 836882,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T13:00:00+00:00",
+      "timestamp": 1644843600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 483,
+        "name": "Alexandria Stadium",
+        "city": "Alexandria"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 233,
+      "name": "Premier League",
+      "country": "Egypt",
+      "logo": "https://media.api-sports.io/football/leagues/233.png",
+      "flag": "https://media.api-sports.io/flags/eg.svg",
+      "season": 2021,
+      "round": "Regular Season - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 1572,
+        "name": "Al Ittihad",
+        "logo": "https://media.api-sports.io/football/teams/1572.png",
+        "winner": null
+      },
+      "away": {
+        "id": 18053,
+        "name": "El Sharqia Dokhan",
+        "logo": "https://media.api-sports.io/football/teams/18053.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 821981,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T13:05:00+00:00",
+      "timestamp": 1644843900,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 12238,
+        "name": "Prince Hathloul Bin Abdul Aziz Sport City Stadium",
+        "city": "Najran"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 308,
+      "name": "Division 1",
+      "country": "Saudi-Arabia",
+      "logo": "https://media.api-sports.io/football/leagues/308.png",
+      "flag": "https://media.api-sports.io/flags/sa.svg",
+      "season": 2021,
+      "round": "Regular Season - 24"
+    },
+    "teams": {
+      "home": {
+        "id": 2927,
+        "name": "Najran",
+        "logo": "https://media.api-sports.io/football/teams/2927.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2948,
+        "name": "Hajer",
+        "logo": "https://media.api-sports.io/football/teams/2948.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 826973,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T13:25:00+00:00",
+      "timestamp": 1644845100,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1605,
+        "name": "Zabeel Stadium",
+        "city": "Dubai"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 560,
+      "name": "Presidents Cup",
+      "country": "United-Arab-Emirates",
+      "logo": "https://media.api-sports.io/football/leagues/560.png",
+      "flag": "https://media.api-sports.io/flags/ae.svg",
+      "season": 2021,
+      "round": "Semi-finals"
+    },
+    "teams": {
+      "home": {
+        "id": 2872,
+        "name": "Al-Wasl FC",
+        "logo": "https://media.api-sports.io/football/teams/2872.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2874,
+        "name": "Sharjah FC",
+        "logo": "https://media.api-sports.io/football/teams/2874.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 836203,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T13:30:00+00:00",
+      "timestamp": 1644845400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 4742,
+        "name": "Stade du TP Mazembe",
+        "city": "Lubumbashi"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 424,
+      "name": "Ligue 1",
+      "country": "Congo-DR",
+      "logo": "https://media.api-sports.io/football/leagues/424.png",
+      "flag": "https://media.api-sports.io/flags/cg.svg",
+      "season": 2021,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 8576,
+        "name": "Lubumbashi Sport",
+        "logo": "https://media.api-sports.io/football/teams/8576.png",
+        "winner": null
+      },
+      "away": {
+        "id": 8108,
+        "name": "RCK",
+        "logo": "https://media.api-sports.io/football/teams/8108.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 827489,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T13:40:00+00:00",
+      "timestamp": 1644846000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Jassim Bin Hamad Stadium",
+        "city": "Doha"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 824,
+      "name": "Emir Cup",
+      "country": "Qatar",
+      "logo": "https://media.api-sports.io/football/leagues/824.png",
+      "flag": "https://media.api-sports.io/flags/qa.svg",
+      "season": 2022,
+      "round": "Round of 16"
+    },
+    "teams": {
+      "home": {
+        "id": 2896,
+        "name": "Al Ahli Doha",
+        "logo": "https://media.api-sports.io/football/teams/2896.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2908,
+        "name": "Al-Markhiya",
+        "logo": "https://media.api-sports.io/football/teams/2908.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 823557,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T13:45:00+00:00",
+      "timestamp": 1644846300,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 840,
+        "name": "Stadion Kapten I Wayan Dipta",
+        "city": "Gianyar"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 274,
+      "name": "Super League",
+      "country": "Indonesia",
+      "logo": "https://media.api-sports.io/football/leagues/274.png",
+      "flag": "https://media.api-sports.io/flags/id.svg",
+      "season": 2021,
+      "round": "Regular Season - 25"
+    },
+    "teams": {
+      "home": {
+        "id": 2446,
+        "name": "Persebaya Surabaya",
+        "logo": "https://media.api-sports.io/football/teams/2446.png",
+        "winner": null
+      },
+      "away": {
+        "id": 10134,
+        "name": "Persija",
+        "logo": "https://media.api-sports.io/football/teams/10134.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 794524,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T14:00:00+00:00",
+      "timestamp": 1644847200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 3544,
+        "name": "Aggborough Stadium",
+        "city": "Kidderminster, Worcestershire"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 871,
+      "name": "Premier League Cup",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/871.png",
+      "flag": "https://media.api-sports.io/flags/gb.svg",
+      "season": 2021,
+      "round": "Group Stage - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 11931,
+        "name": "Wolves U23",
+        "logo": "https://media.api-sports.io/football/teams/11931.png",
+        "winner": null
+      },
+      "away": {
+        "id": 17795,
+        "name": "Exeter City U23",
+        "logo": "https://media.api-sports.io/football/teams/17795.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 794525,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T14:00:00+00:00",
+      "timestamp": 1644847200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 3537,
+        "name": "New Bucks Head Ground",
+        "city": "Telford, Shropshire"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 871,
+      "name": "Premier League Cup",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/871.png",
+      "flag": "https://media.api-sports.io/flags/gb.svg",
+      "season": 2021,
+      "round": "Group Stage - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 11929,
+        "name": "West Bromwich Albion U23",
+        "logo": "https://media.api-sports.io/football/teams/11929.png",
+        "winner": null
+      },
+      "away": {
+        "id": 15631,
+        "name": "Arsenal U23",
+        "logo": "https://media.api-sports.io/football/teams/15631.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 815846,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T14:00:00+00:00",
+      "timestamp": 1644847200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Naihati Stadium",
+        "city": "Naihati"
+      },
+      "status": {
+        "long": "Match Postponed",
+        "short": "PST",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 324,
+      "name": "I-League",
+      "country": "India",
+      "logo": "https://media.api-sports.io/football/leagues/324.png",
+      "flag": "https://media.api-sports.io/flags/in.svg",
+      "season": 2021,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 18006,
+        "name": "Kenkre",
+        "logo": "https://media.api-sports.io/football/teams/18006.png",
+        "winner": null
+      },
+      "away": {
+        "id": 3462,
+        "name": "Churchill Brothers",
+        "logo": "https://media.api-sports.io/football/teams/3462.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 820034,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T14:00:00+00:00",
+      "timestamp": 1644847200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 2270,
+        "name": "Tilak Maidan Stadium",
+        "city": "Vasco da Gama, Goa"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 323,
+      "name": "Indian Super League",
+      "country": "India",
+      "logo": "https://media.api-sports.io/football/leagues/323.png",
+      "flag": "https://media.api-sports.io/flags/in.svg",
+      "season": 2021,
+      "round": "Regular Season - 21"
+    },
+    "teams": {
+      "home": {
+        "id": 3477,
+        "name": "Kerala Blasters",
+        "logo": "https://media.api-sports.io/football/teams/3477.png",
+        "winner": null
+      },
+      "away": {
+        "id": 3463,
+        "name": "East Bengal",
+        "logo": "https://media.api-sports.io/football/teams/3463.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 723091,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T15:00:00+00:00",
+      "timestamp": 1644850800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1309,
+        "name": "Stadionul Municipal",
+        "city": "Botoşani"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 283,
+      "name": "Liga I",
+      "country": "Romania",
+      "logo": "https://media.api-sports.io/football/leagues/283.png",
+      "flag": "https://media.api-sports.io/flags/ro.svg",
+      "season": 2021,
+      "round": "Regular Season - 26"
+    },
+    "teams": {
+      "home": {
+        "id": 2581,
+        "name": "FC Botosani",
+        "logo": "https://media.api-sports.io/football/teams/2581.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2603,
+        "name": "FC Clinceni",
+        "logo": "https://media.api-sports.io/football/teams/2603.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 805341,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T15:00:00+00:00",
+      "timestamp": 1644850800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 12554,
+        "name": "Elwak Stadium",
+        "city": "Accra"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 570,
+      "name": "Premier League",
+      "country": "Ghana",
+      "logo": "https://media.api-sports.io/football/leagues/570.png",
+      "flag": "https://media.api-sports.io/flags/gh.svg",
+      "season": 2021,
+      "round": "Regular Season - 17"
+    },
+    "teams": {
+      "home": {
+        "id": 12253,
+        "name": "Legon Cities",
+        "logo": "https://media.api-sports.io/football/teams/12253.png",
+        "winner": null
+      },
+      "away": {
+        "id": 12252,
+        "name": "King Faisal",
+        "logo": "https://media.api-sports.io/football/teams/12252.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 821982,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T15:10:00+00:00",
+      "timestamp": 1644851400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1363,
+        "name": "Prince Abdullah bin Jalawi Sports City Stadium",
+        "city": "Al-Hasa"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 308,
+      "name": "Division 1",
+      "country": "Saudi-Arabia",
+      "logo": "https://media.api-sports.io/football/leagues/308.png",
+      "flag": "https://media.api-sports.io/flags/sa.svg",
+      "season": 2021,
+      "round": "Regular Season - 24"
+    },
+    "teams": {
+      "home": {
+        "id": 2955,
+        "name": "Al Jeel",
+        "logo": "https://media.api-sports.io/football/teams/2955.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2950,
+        "name": "Al-Adalah",
+        "logo": "https://media.api-sports.io/football/teams/2950.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 731066,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T16:00:00+00:00",
+      "timestamp": 1644854400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 431,
+        "name": "Stadio Antonis Papadopoulos",
+        "city": "Larnaca"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 318,
+      "name": "1. Division",
+      "country": "Cyprus",
+      "logo": "https://media.api-sports.io/football/leagues/318.png",
+      "flag": "https://media.api-sports.io/flags/cy.svg",
+      "season": 2021,
+      "round": "Regular Season - 21"
+    },
+    "teams": {
+      "home": {
+        "id": 2269,
+        "name": "Anorthosis",
+        "logo": "https://media.api-sports.io/football/teams/2269.png",
+        "winner": null
+      },
+      "away": {
+        "id": 3415,
+        "name": "Olympiakos",
+        "logo": "https://media.api-sports.io/football/teams/3415.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 826975,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T16:00:00+00:00",
+      "timestamp": 1644854400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 2927,
+        "name": "Al Nahyan Stadium",
+        "city": "Abu Dhabi"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 560,
+      "name": "Presidents Cup",
+      "country": "United-Arab-Emirates",
+      "logo": "https://media.api-sports.io/football/leagues/560.png",
+      "flag": "https://media.api-sports.io/flags/ae.svg",
+      "season": 2021,
+      "round": "Semi-finals"
+    },
+    "teams": {
+      "home": {
+        "id": 2875,
+        "name": "Al Wahda FC",
+        "logo": "https://media.api-sports.io/football/teams/2875.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2877,
+        "name": "Baniyas SC",
+        "logo": "https://media.api-sports.io/football/teams/2877.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 723229,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T16:30:00+00:00",
+      "timestamp": 1644856200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 3330,
+        "name": "Športni Park Aluminij",
+        "city": "Kidričevo"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 373,
+      "name": "1. SNL",
+      "country": "Slovenia",
+      "logo": "https://media.api-sports.io/football/leagues/373.png",
+      "flag": "https://media.api-sports.io/flags/si.svg",
+      "season": 2021,
+      "round": "Regular Season - 21"
+    },
+    "teams": {
+      "home": {
+        "id": 4358,
+        "name": "Aluminij",
+        "logo": "https://media.api-sports.io/football/teams/4358.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4378,
+        "name": "Radomlje",
+        "logo": "https://media.api-sports.io/football/teams/4378.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 827490,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T16:30:00+00:00",
+      "timestamp": 1644856200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Jassim Bin Hamad Stadium",
+        "city": "Doha"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 824,
+      "name": "Emir Cup",
+      "country": "Qatar",
+      "logo": "https://media.api-sports.io/football/leagues/824.png",
+      "flag": "https://media.api-sports.io/flags/qa.svg",
+      "season": 2022,
+      "round": "Round of 16"
+    },
+    "teams": {
+      "home": {
+        "id": 2905,
+        "name": "Al-Arabi SC",
+        "logo": "https://media.api-sports.io/football/teams/2905.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2898,
+        "name": "Al-Sailiya",
+        "logo": "https://media.api-sports.io/football/teams/2898.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 712959,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T17:00:00+00:00",
+      "timestamp": 1644858000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1248,
+        "name": "Arena Zabrze",
+        "city": "Zabrze"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 106,
+      "name": "Ekstraklasa",
+      "country": "Poland",
+      "logo": "https://media.api-sports.io/football/leagues/106.png",
+      "flag": "https://media.api-sports.io/flags/pl.svg",
+      "season": 2021,
+      "round": "Regular Season - 21"
+    },
+    "teams": {
+      "home": {
+        "id": 340,
+        "name": "Gornik Zabrze",
+        "logo": "https://media.api-sports.io/football/teams/340.png",
+        "winner": null
+      },
+      "away": {
+        "id": 336,
+        "name": "Jagiellonia",
+        "logo": "https://media.api-sports.io/football/teams/336.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 758769,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T17:00:00+00:00",
+      "timestamp": 1644858000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 11924,
+        "name": "Yeni Adana Stadyumu",
+        "city": "Adana"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 203,
+      "name": "Super Lig",
+      "country": "Turkey",
+      "logo": "https://media.api-sports.io/football/leagues/203.png",
+      "flag": "https://media.api-sports.io/flags/tr.svg",
+      "season": 2021,
+      "round": "Regular Season - 25"
+    },
+    "teams": {
+      "home": {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "logo": "https://media.api-sports.io/football/teams/3563.png",
+        "winner": null
+      },
+      "away": {
+        "id": 549,
+        "name": "Besiktas",
+        "logo": "https://media.api-sports.io/football/teams/549.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 758775,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T17:00:00+00:00",
+      "timestamp": 1644858000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 12280,
+        "name": "Yeni Hatay Stadyumu",
+        "city": "Hatay"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 203,
+      "name": "Super Lig",
+      "country": "Turkey",
+      "logo": "https://media.api-sports.io/football/leagues/203.png",
+      "flag": "https://media.api-sports.io/flags/tr.svg",
+      "season": 2021,
+      "round": "Regular Season - 25"
+    },
+    "teams": {
+      "home": {
+        "id": 3575,
+        "name": "Hatayspor",
+        "logo": "https://media.api-sports.io/football/teams/3575.png",
+        "winner": null
+      },
+      "away": {
+        "id": 994,
+        "name": "Goztepe",
+        "logo": "https://media.api-sports.io/football/teams/994.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 735083,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T17:30:00+00:00",
+      "timestamp": 1644859800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 668,
+        "name": "Stade de la Source",
+        "city": "Orléans"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 63,
+      "name": "National",
+      "country": "France",
+      "logo": "https://media.api-sports.io/football/leagues/63.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg",
+      "season": 2021,
+      "round": "Regular Season - 21"
+    },
+    "teams": {
+      "home": {
+        "id": 103,
+        "name": "Orleans",
+        "logo": "https://media.api-sports.io/football/teams/103.png",
+        "winner": null
+      },
+      "away": {
+        "id": 104,
+        "name": "RED Star FC 93",
+        "logo": "https://media.api-sports.io/football/teams/104.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 755884,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T17:30:00+00:00",
+      "timestamp": 1644859800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 781,
+        "name": "Stadio Zosimades",
+        "city": "Ioannina"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2021,
+      "round": "Regular Season - 23"
+    },
+    "teams": {
+      "home": {
+        "id": 950,
+        "name": "PAS Giannina",
+        "logo": "https://media.api-sports.io/football/teams/950.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "logo": "https://media.api-sports.io/football/teams/1123.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 758120,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T17:30:00+00:00",
+      "timestamp": 1644859800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1717,
+        "name": "Old Peter Mokaba Stadium",
+        "city": "Pietersburg"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 288,
+      "name": "Premier Soccer League",
+      "country": "South-Africa",
+      "logo": "https://media.api-sports.io/football/leagues/288.png",
+      "flag": "https://media.api-sports.io/flags/za.svg",
+      "season": 2021,
+      "round": "Regular Season - 16"
+    },
+    "teams": {
+      "home": {
+        "id": 2688,
+        "name": "Baroka FC",
+        "logo": "https://media.api-sports.io/football/teams/2688.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2699,
+        "name": "Mamelodi Sundowns",
+        "logo": "https://media.api-sports.io/football/teams/2699.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 773404,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T17:30:00+00:00",
+      "timestamp": 1644859800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 12051,
+        "name": "The MKM Stadium",
+        "city": "Hull"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 703,
+      "name": "Professional Development League",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/703.png",
+      "flag": "https://media.api-sports.io/flags/gb.svg",
+      "season": 2021,
+      "round": "Regular Season - 14"
+    },
+    "teams": {
+      "home": {
+        "id": 15647,
+        "name": "Hull City U23",
+        "logo": "https://media.api-sports.io/football/teams/15647.png",
+        "winner": null
+      },
+      "away": {
+        "id": 15639,
+        "name": "Barnsley U23",
+        "logo": "https://media.api-sports.io/football/teams/15639.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 836538,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T17:30:00+00:00",
+      "timestamp": 1644859800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1129,
+        "name": "Fortuna Sittard Stadion",
+        "city": "Sittard"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 883,
+      "name": "Reserve League",
+      "country": "Netherlands",
+      "logo": "https://media.api-sports.io/football/leagues/883.png",
+      "flag": "https://media.api-sports.io/flags/nl.svg",
+      "season": 2021,
+      "round": "Spring Season - 1"
+    },
+    "teams": {
+      "home": {
+        "id": 17930,
+        "name": "Fortuna Sittard Res.",
+        "logo": "https://media.api-sports.io/football/teams/17930.png",
+        "winner": null
+      },
+      "away": {
+        "id": 9130,
+        "name": "Almere City II",
+        "logo": "https://media.api-sports.io/football/teams/9130.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 836539,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T17:30:00+00:00",
+      "timestamp": 1644859800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 12543,
+        "name": "FC Twente-trainingscentrum TC veld 1",
+        "city": "Hengelo"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 883,
+      "name": "Reserve League",
+      "country": "Netherlands",
+      "logo": "https://media.api-sports.io/football/leagues/883.png",
+      "flag": "https://media.api-sports.io/flags/nl.svg",
+      "season": 2021,
+      "round": "Spring Season - 1"
+    },
+    "teams": {
+      "home": {
+        "id": 17934,
+        "name": "Twente Res.",
+        "logo": "https://media.api-sports.io/football/teams/17934.png",
+        "winner": null
+      },
+      "away": {
+        "id": 17929,
+        "name": "Emmen Res.",
+        "logo": "https://media.api-sports.io/football/teams/17929.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 836540,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T17:30:00+00:00",
+      "timestamp": 1644859800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 11906,
+        "name": "Erve Asito",
+        "city": "Almelo"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 883,
+      "name": "Reserve League",
+      "country": "Netherlands",
+      "logo": "https://media.api-sports.io/football/leagues/883.png",
+      "flag": "https://media.api-sports.io/flags/nl.svg",
+      "season": 2021,
+      "round": "Spring Season - 1"
+    },
+    "teams": {
+      "home": {
+        "id": 17931,
+        "name": "Heracles Almelo Res.",
+        "logo": "https://media.api-sports.io/football/teams/17931.png",
+        "winner": null
+      },
+      "away": {
+        "id": 14906,
+        "name": "Heerenveen U21",
+        "logo": "https://media.api-sports.io/football/teams/14906.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 723090,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T17:55:00+00:00",
+      "timestamp": 1644861300,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 12282,
+        "name": "Complex Sportiv Craiova",
+        "city": "Craiova"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 283,
+      "name": "Liga I",
+      "country": "Romania",
+      "logo": "https://media.api-sports.io/football/leagues/283.png",
+      "flag": "https://media.api-sports.io/flags/ro.svg",
+      "season": 2021,
+      "round": "Regular Season - 26"
+    },
+    "teams": {
+      "home": {
+        "id": 632,
+        "name": "CS Universitatea Craiova",
+        "logo": "https://media.api-sports.io/football/teams/632.png",
+        "winner": null
+      },
+      "away": {
+        "id": 6910,
+        "name": "U Craiova 1948",
+        "logo": "https://media.api-sports.io/football/teams/6910.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 722273,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T18:00:00+00:00",
+      "timestamp": 1644861600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1727,
+        "name": "Sportpark Höhenberg",
+        "city": "Köln"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 80,
+      "name": "Liga 3",
+      "country": "Germany",
+      "logo": "https://media.api-sports.io/football/leagues/80.png",
+      "flag": "https://media.api-sports.io/flags/de.svg",
+      "season": 2021,
+      "round": "Regular Season - 26"
+    },
+    "teams": {
+      "home": {
+        "id": 1620,
+        "name": "FC Viktoria Koln",
+        "logo": "https://media.api-sports.io/football/teams/1620.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1324,
+        "name": "VfL Osnabruck",
+        "logo": "https://media.api-sports.io/football/teams/1324.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 727613,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T18:00:00+00:00",
+      "timestamp": 1644861600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1273,
+        "name": "Estádio Municipal Eng. Manuel Branco Teixeira",
+        "city": "Chaves"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 95,
+      "name": "Liga de Honra",
+      "country": "Portugal",
+      "logo": "https://media.api-sports.io/football/leagues/95.png",
+      "flag": "https://media.api-sports.io/flags/pt.svg",
+      "season": 2021,
+      "round": "Regular Season - 22"
+    },
+    "teams": {
+      "home": {
+        "id": 223,
+        "name": "Chaves",
+        "logo": "https://media.api-sports.io/football/teams/223.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4717,
+        "name": "Vilafranquense",
+        "logo": "https://media.api-sports.io/football/teams/4717.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 727615,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T18:00:00+00:00",
+      "timestamp": 1644861600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1288,
+        "name": "Estádio do Rio Ave Futebol Clube",
+        "city": "Vila do Conde"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 95,
+      "name": "Liga de Honra",
+      "country": "Portugal",
+      "logo": "https://media.api-sports.io/football/leagues/95.png",
+      "flag": "https://media.api-sports.io/flags/pt.svg",
+      "season": 2021,
+      "round": "Regular Season - 22"
+    },
+    "teams": {
+      "home": {
+        "id": 226,
+        "name": "Rio Ave",
+        "logo": "https://media.api-sports.io/football/teams/226.png",
+        "winner": null
+      },
+      "away": {
+        "id": 15130,
+        "name": "Estrela",
+        "logo": "https://media.api-sports.io/football/teams/15130.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 819436,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T18:00:00+00:00",
+      "timestamp": 1644861600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 861,
+      "name": "U20 League",
+      "country": "Mexico",
+      "logo": "https://media.api-sports.io/football/leagues/861.png",
+      "flag": "https://media.api-sports.io/flags/mx.svg",
+      "season": 2021,
+      "round": "Clausura - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 17335,
+        "name": "Pachuca U20",
+        "logo": "https://media.api-sports.io/football/teams/17335.png",
+        "winner": null
+      },
+      "away": {
+        "id": 17338,
+        "name": "Querétaro U20",
+        "logo": "https://media.api-sports.io/football/teams/17338.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 821766,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T18:00:00+00:00",
+      "timestamp": 1644861600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 2241,
+        "name": "UWI/JFF Captain Horace Burrell Centre of Excellence",
+        "city": "Kingston"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 322,
+      "name": "Premier League",
+      "country": "Jamaica",
+      "logo": "https://media.api-sports.io/football/leagues/322.png",
+      "flag": "https://media.api-sports.io/flags/jm.svg",
+      "season": 2021,
+      "round": "Regular Season - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 3441,
+        "name": "Montego Bay United",
+        "logo": "https://media.api-sports.io/football/teams/3441.png",
+        "winner": null
+      },
+      "away": {
+        "id": 3445,
+        "name": "Tivoli Gardens",
+        "logo": "https://media.api-sports.io/football/teams/3445.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 836883,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T18:00:00+00:00",
+      "timestamp": 1644861600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Arab Contractors Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 233,
+      "name": "Premier League",
+      "country": "Egypt",
+      "logo": "https://media.api-sports.io/football/leagues/233.png",
+      "flag": "https://media.api-sports.io/flags/eg.svg",
+      "season": 2021,
+      "round": "Regular Season - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 1038,
+        "name": "Misr EL Makasa",
+        "logo": "https://media.api-sports.io/football/teams/1038.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1039,
+        "name": "El Geish",
+        "logo": "https://media.api-sports.io/football/teams/1039.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 731063,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T18:15:00+00:00",
+      "timestamp": 1644862500,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 432,
+        "name": "Neo GSP",
+        "city": "Levkosía"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 318,
+      "name": "1. Division",
+      "country": "Cyprus",
+      "logo": "https://media.api-sports.io/football/leagues/318.png",
+      "flag": "https://media.api-sports.io/flags/cy.svg",
+      "season": 2021,
+      "round": "Regular Season - 21"
+    },
+    "teams": {
+      "home": {
+        "id": 2247,
+        "name": "Apoel Nicosia",
+        "logo": "https://media.api-sports.io/football/teams/2247.png",
+        "winner": null
+      },
+      "away": {
+        "id": 614,
+        "name": "AEK Larnaca",
+        "logo": "https://media.api-sports.io/football/teams/614.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 773773,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T18:30:00+00:00",
+      "timestamp": 1644863400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 518,
+      "name": "Reserve Pro League",
+      "country": "Belgium",
+      "logo": "https://media.api-sports.io/football/leagues/518.png",
+      "flag": "https://media.api-sports.io/flags/be.svg",
+      "season": 2021,
+      "round": "Regular Season - 16"
+    },
+    "teams": {
+      "home": {
+        "id": 10850,
+        "name": "Sint-Truiden U21",
+        "logo": "https://media.api-sports.io/football/teams/10850.png",
+        "winner": null
+      },
+      "away": {
+        "id": 10845,
+        "name": "Club Brugge U21",
+        "logo": "https://media.api-sports.io/football/teams/10845.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 773840,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T18:30:00+00:00",
+      "timestamp": 1644863400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 518,
+      "name": "Reserve Pro League",
+      "country": "Belgium",
+      "logo": "https://media.api-sports.io/football/leagues/518.png",
+      "flag": "https://media.api-sports.io/flags/be.svg",
+      "season": 2021,
+      "round": "Regular Season - 16"
+    },
+    "teams": {
+      "home": {
+        "id": 17476,
+        "name": "Antwerp U21",
+        "logo": "https://media.api-sports.io/football/teams/17476.png",
+        "winner": null
+      },
+      "away": {
+        "id": 17478,
+        "name": "Sporting Charleroi U21",
+        "logo": "https://media.api-sports.io/football/teams/17478.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 773841,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T18:30:00+00:00",
+      "timestamp": 1644863400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 518,
+      "name": "Reserve Pro League",
+      "country": "Belgium",
+      "logo": "https://media.api-sports.io/football/leagues/518.png",
+      "flag": "https://media.api-sports.io/flags/be.svg",
+      "season": 2021,
+      "round": "Regular Season - 16"
+    },
+    "teams": {
+      "home": {
+        "id": 10846,
+        "name": "Genk U21",
+        "logo": "https://media.api-sports.io/football/teams/10846.png",
+        "winner": null
+      },
+      "away": {
+        "id": 10848,
+        "name": "Mechelen U21",
+        "logo": "https://media.api-sports.io/football/teams/10848.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 773842,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T18:30:00+00:00",
+      "timestamp": 1644863400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 518,
+      "name": "Reserve Pro League",
+      "country": "Belgium",
+      "logo": "https://media.api-sports.io/football/leagues/518.png",
+      "flag": "https://media.api-sports.io/flags/be.svg",
+      "season": 2021,
+      "round": "Regular Season - 16"
+    },
+    "teams": {
+      "home": {
+        "id": 10847,
+        "name": "Gent U21",
+        "logo": "https://media.api-sports.io/football/teams/10847.png",
+        "winner": null
+      },
+      "away": {
+        "id": 10851,
+        "name": "Standard Liège U21",
+        "logo": "https://media.api-sports.io/football/teams/10851.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 773843,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T18:30:00+00:00",
+      "timestamp": 1644863400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 518,
+      "name": "Reserve Pro League",
+      "country": "Belgium",
+      "logo": "https://media.api-sports.io/football/leagues/518.png",
+      "flag": "https://media.api-sports.io/flags/be.svg",
+      "season": 2021,
+      "round": "Regular Season - 16"
+    },
+    "teams": {
+      "home": {
+        "id": 17477,
+        "name": "Cercle Brugge U21",
+        "logo": "https://media.api-sports.io/football/teams/17477.png",
+        "winner": null
+      },
+      "away": {
+        "id": 10849,
+        "name": "OH Leuven U21",
+        "logo": "https://media.api-sports.io/football/teams/10849.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 773844,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T18:30:00+00:00",
+      "timestamp": 1644863400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 518,
+      "name": "Reserve Pro League",
+      "country": "Belgium",
+      "logo": "https://media.api-sports.io/football/leagues/518.png",
+      "flag": "https://media.api-sports.io/flags/be.svg",
+      "season": 2021,
+      "round": "Regular Season - 16"
+    },
+    "teams": {
+      "home": {
+        "id": 17479,
+        "name": "Zulte-Waregem U21",
+        "logo": "https://media.api-sports.io/football/teams/17479.png",
+        "winner": null
+      },
+      "away": {
+        "id": 10844,
+        "name": "Anderlecht U21",
+        "logo": "https://media.api-sports.io/football/teams/10844.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 707744,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:00:00+00:00",
+      "timestamp": 1644865200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 12681,
+        "name": "PSV Campus De Herdgang",
+        "city": "Eindhoven"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 89,
+      "name": "Eerste Divisie",
+      "country": "Netherlands",
+      "logo": "https://media.api-sports.io/football/leagues/89.png",
+      "flag": "https://media.api-sports.io/flags/nl.svg",
+      "season": 2021,
+      "round": "Regular Season - 26"
+    },
+    "teams": {
+      "home": {
+        "id": 411,
+        "name": "Jong PSV",
+        "logo": "https://media.api-sports.io/football/teams/411.png",
+        "winner": null
+      },
+      "away": {
+        "id": 428,
+        "name": "Jong Utrecht",
+        "logo": "https://media.api-sports.io/football/teams/428.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 732768,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:00:00+00:00",
+      "timestamp": 1644865200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 3862,
+        "name": "Széktói Stadion",
+        "city": "Kecskemét"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 272,
+      "name": "NB II",
+      "country": "Hungary",
+      "logo": "https://media.api-sports.io/football/leagues/272.png",
+      "flag": "https://media.api-sports.io/flags/hu.svg",
+      "season": 2021,
+      "round": "Regular Season - 23"
+    },
+    "teams": {
+      "home": {
+        "id": 5111,
+        "name": "Kecskeméti TE",
+        "logo": "https://media.api-sports.io/football/teams/5111.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2393,
+        "name": "Diosgyori VTK",
+        "logo": "https://media.api-sports.io/football/teams/2393.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 794526,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:00:00+00:00",
+      "timestamp": 1644865200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 3539,
+        "name": "Princes Park",
+        "city": "Dartford, Kent"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 871,
+      "name": "Premier League Cup",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/871.png",
+      "flag": "https://media.api-sports.io/flags/gb.svg",
+      "season": 2021,
+      "round": "Group Stage - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 15643,
+        "name": "Charlton Athletic U23",
+        "logo": "https://media.api-sports.io/football/teams/15643.png",
+        "winner": null
+      },
+      "away": {
+        "id": 11923,
+        "name": "Norwich City U23",
+        "logo": "https://media.api-sports.io/football/teams/11923.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 794527,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:00:00+00:00",
+      "timestamp": 1644865200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 11895,
+        "name": "Technique Stadium",
+        "city": "Chesterfield, Derbyshire"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 871,
+      "name": "Premier League Cup",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/871.png",
+      "flag": "https://media.api-sports.io/flags/gb.svg",
+      "season": 2021,
+      "round": "Group Stage - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 15650,
+        "name": "Sheffield United U23",
+        "logo": "https://media.api-sports.io/football/teams/15650.png",
+        "winner": null
+      },
+      "away": {
+        "id": 17451,
+        "name": "Peterborough United U23",
+        "logo": "https://media.api-sports.io/football/teams/17451.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 794528,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:00:00+00:00",
+      "timestamp": 1644865200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 557,
+        "name": "One Call Stadium",
+        "city": "Mansfield, Nottinghamshire"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 871,
+      "name": "Premier League Cup",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/871.png",
+      "flag": "https://media.api-sports.io/flags/gb.svg",
+      "season": 2021,
+      "round": "Group Stage - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 17797,
+        "name": "Mansfield Town U23",
+        "logo": "https://media.api-sports.io/football/teams/17797.png",
+        "winner": null
+      },
+      "away": {
+        "id": 15635,
+        "name": "Leeds United U23",
+        "logo": "https://media.api-sports.io/football/teams/15635.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 794529,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:00:00+00:00",
+      "timestamp": 1644865200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 7736,
+        "name": "Eppleton Colliery Football Ground",
+        "city": "Hetton-le-Hole, Tyne and Wear"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 871,
+      "name": "Premier League Cup",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/871.png",
+      "flag": "https://media.api-sports.io/flags/gb.svg",
+      "season": 2021,
+      "round": "Group Stage - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 11927,
+        "name": "Sunderland U23",
+        "logo": "https://media.api-sports.io/football/teams/11927.png",
+        "winner": null
+      },
+      "away": {
+        "id": 15653,
+        "name": "Wigan Athletic U23",
+        "logo": "https://media.api-sports.io/football/teams/15653.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 794530,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:00:00+00:00",
+      "timestamp": 1644865200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 543,
+        "name": "John Smith's Stadium",
+        "city": "Huddersfield, West Yorkshire"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 871,
+      "name": "Premier League Cup",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/871.png",
+      "flag": "https://media.api-sports.io/flags/gb.svg",
+      "season": 2021,
+      "round": "Group Stage - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 17796,
+        "name": "Huddersfield Town U23",
+        "logo": "https://media.api-sports.io/football/teams/17796.png",
+        "winner": null
+      },
+      "away": {
+        "id": 14737,
+        "name": "Newcastle United U23",
+        "logo": "https://media.api-sports.io/football/teams/14737.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 794531,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:00:00+00:00",
+      "timestamp": 1644865200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 10665,
+        "name": "Liberty Way",
+        "city": "Nuneaton, Warwickshire"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 871,
+      "name": "Premier League Cup",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/871.png",
+      "flag": "https://media.api-sports.io/flags/gb.svg",
+      "season": 2021,
+      "round": "Group Stage - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 15640,
+        "name": "Birmingham City U23",
+        "logo": "https://media.api-sports.io/football/teams/15640.png",
+        "winner": null
+      },
+      "away": {
+        "id": 15652,
+        "name": "Watford U23",
+        "logo": "https://media.api-sports.io/football/teams/15652.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 794532,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:00:00+00:00",
+      "timestamp": 1644865200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 5205,
+        "name": "Motspur Park",
+        "city": "New Malden, Surrey"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 871,
+      "name": "Premier League Cup",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/871.png",
+      "flag": "https://media.api-sports.io/flags/gb.svg",
+      "season": 2021,
+      "round": "Group Stage - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 15634,
+        "name": "Fulham U23",
+        "logo": "https://media.api-sports.io/football/teams/15634.png",
+        "winner": null
+      },
+      "away": {
+        "id": 15644,
+        "name": "Colchester United U23",
+        "logo": "https://media.api-sports.io/football/teams/15644.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 794533,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:00:00+00:00",
+      "timestamp": 1644865200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 586,
+        "name": "Roots Hall",
+        "city": "Southend-on-Sea, Essex"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 871,
+      "name": "Premier League Cup",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/871.png",
+      "flag": "https://media.api-sports.io/flags/gb.svg",
+      "season": 2021,
+      "round": "Group Stage - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 17801,
+        "name": "Southend United U23",
+        "logo": "https://media.api-sports.io/football/teams/17801.png",
+        "winner": null
+      },
+      "away": {
+        "id": 11926,
+        "name": "Stoke City U23",
+        "logo": "https://media.api-sports.io/football/teams/11926.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 817704,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:00:00+00:00",
+      "timestamp": 1644865200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 831,
+        "name": "Víkingsvöllur",
+        "city": "Reykjavík"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 168,
+      "name": "League Cup",
+      "country": "Iceland",
+      "logo": "https://media.api-sports.io/football/leagues/168.png",
+      "flag": "https://media.api-sports.io/flags/is.svg",
+      "season": 2022,
+      "round": "Group Stage - 1"
+    },
+    "teams": {
+      "home": {
+        "id": 278,
+        "name": "Vikingur Reykjavik",
+        "logo": "https://media.api-sports.io/football/teams/278.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4171,
+        "name": "Thróttur Vogar",
+        "logo": "https://media.api-sports.io/football/teams/4171.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 817705,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:00:00+00:00",
+      "timestamp": 1644865200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Nettóhöllin",
+        "city": "Keflavík, Reykjanesbær"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 168,
+      "name": "League Cup",
+      "country": "Iceland",
+      "logo": "https://media.api-sports.io/football/leagues/168.png",
+      "flag": "https://media.api-sports.io/flags/is.svg",
+      "season": 2022,
+      "round": "Group Stage - 1"
+    },
+    "teams": {
+      "home": {
+        "id": 269,
+        "name": "Keflavik",
+        "logo": "https://media.api-sports.io/football/teams/269.png",
+        "winner": null
+      },
+      "away": {
+        "id": 6097,
+        "name": "Kórdrengir",
+        "logo": "https://media.api-sports.io/football/teams/6097.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 816056,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:30:00+00:00",
+      "timestamp": 1644867000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 5634,
+        "name": "Estádio Ismael Benigno",
+        "city": "Manaus, Amazonas"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 522,
+      "name": "Amazonense",
+      "country": "Brazil",
+      "logo": "https://media.api-sports.io/football/leagues/522.png",
+      "flag": "https://media.api-sports.io/flags/br.svg",
+      "season": 2022,
+      "round": "1st Phase - 6"
+    },
+    "teams": {
+      "home": {
+        "id": 18308,
+        "name": "Manauara",
+        "logo": "https://media.api-sports.io/football/teams/18308.png",
+        "winner": null
+      },
+      "away": {
+        "id": 16461,
+        "name": "JC",
+        "logo": "https://media.api-sports.io/football/teams/16461.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 719892,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:45:00+00:00",
+      "timestamp": 1644867900,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 652,
+        "name": "Stade Océane",
+        "city": "Le Havre"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 62,
+      "name": "Ligue 2",
+      "country": "France",
+      "logo": "https://media.api-sports.io/football/leagues/62.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg",
+      "season": 2021,
+      "round": "Regular Season - 24"
+    },
+    "teams": {
+      "home": {
+        "id": 111,
+        "name": "LE Havre",
+        "logo": "https://media.api-sports.io/football/teams/111.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1305,
+        "name": "Bastia",
+        "logo": "https://media.api-sports.io/football/teams/1305.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 731832,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:45:00+00:00",
+      "timestamp": 1644867900,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 939,
+        "name": "Stadio Alberto Picco",
+        "city": "La Spezia"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 135,
+      "name": "Serie A",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/135.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2021,
+      "round": "Regular Season - 25"
+    },
+    "teams": {
+      "home": {
+        "id": 515,
+        "name": "Spezia",
+        "logo": "https://media.api-sports.io/football/teams/515.png",
+        "winner": null
+      },
+      "away": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media.api-sports.io/football/teams/502.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 828033,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T19:45:00+00:00",
+      "timestamp": 1644867900,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 4951,
+        "name": "Balmoor Stadium",
+        "city": "Peterhead"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 181,
+      "name": "FA Cup",
+      "country": "Scotland",
+      "logo": "https://media.api-sports.io/football/leagues/181.png",
+      "flag": "https://media.api-sports.io/flags/gb.svg",
+      "season": 2021,
+      "round": "5th Round"
+    },
+    "teams": {
+      "home": {
+        "id": 6777,
+        "name": "Peterhead",
+        "logo": "https://media.api-sports.io/football/teams/6777.png",
+        "winner": null
+      },
+      "away": {
+        "id": 253,
+        "name": "Dundee",
+        "logo": "https://media.api-sports.io/football/teams/253.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 717179,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T20:00:00+00:00",
+      "timestamp": 1644868800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 597,
+        "name": "The Hawthorns",
+        "city": "West Bromwich"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb.svg",
+      "season": 2021,
+      "round": "Regular Season - 32"
+    },
+    "teams": {
+      "home": {
+        "id": 60,
+        "name": "West Brom",
+        "logo": "https://media.api-sports.io/football/teams/60.png",
+        "winner": null
+      },
+      "away": {
+        "id": 67,
+        "name": "Blackburn",
+        "logo": "https://media.api-sports.io/football/teams/67.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 720971,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T20:00:00+00:00",
+      "timestamp": 1644868800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 12597,
+        "name": "Visit Mallorca Estadi",
+        "city": "Palma de Mallorca"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media.api-sports.io/football/leagues/140.png",
+      "flag": "https://media.api-sports.io/flags/es.svg",
+      "season": 2021,
+      "round": "Regular Season - 24"
+    },
+    "teams": {
+      "home": {
+        "id": 798,
+        "name": "Mallorca",
+        "logo": "https://media.api-sports.io/football/teams/798.png",
+        "winner": null
+      },
+      "away": {
+        "id": 531,
+        "name": "Athletic Club",
+        "logo": "https://media.api-sports.io/football/teams/531.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 721551,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T20:00:00+00:00",
+      "timestamp": 1644868800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 3708,
+        "name": "Estadio El Toralín",
+        "city": "Ponferrada"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 141,
+      "name": "Segunda Division",
+      "country": "Spain",
+      "logo": "https://media.api-sports.io/football/leagues/141.png",
+      "flag": "https://media.api-sports.io/flags/es.svg",
+      "season": 2021,
+      "round": "Regular Season - 27"
+    },
+    "teams": {
+      "home": {
+        "id": 4907,
+        "name": "Ponferradina",
+        "logo": "https://media.api-sports.io/football/teams/4907.png",
+        "winner": null
+      },
+      "away": {
+        "id": 9585,
+        "name": "Real Sociedad II",
+        "logo": "https://media.api-sports.io/football/teams/9585.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 768090,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T20:00:00+00:00",
+      "timestamp": 1644868800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 935,
+        "name": "MAPEI Stadium - Città del Tricolore",
+        "city": "Reggio nell'Emilia"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 138,
+      "name": "Serie C",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/138.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2021,
+      "round": "Girone B - 26"
+    },
+    "teams": {
+      "home": {
+        "id": 880,
+        "name": "Reggiana",
+        "logo": "https://media.api-sports.io/football/teams/880.png",
+        "winner": null
+      },
+      "away": {
+        "id": 525,
+        "name": "Pescara",
+        "logo": "https://media.api-sports.io/football/teams/525.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 823435,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T20:00:00+00:00",
+      "timestamp": 1644868800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1867,
+        "name": "Estadio Francisco Rivera Escobar",
+        "city": "Palmira"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 240,
+      "name": "Primera B",
+      "country": "Colombia",
+      "logo": "https://media.api-sports.io/football/leagues/240.png",
+      "flag": "https://media.api-sports.io/flags/co.svg",
+      "season": 2022,
+      "round": "Apertura - 4"
+    },
+    "teams": {
+      "home": {
+        "id": 1469,
+        "name": "Orsomarso",
+        "logo": "https://media.api-sports.io/football/teams/1469.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1460,
+        "name": "Popayan",
+        "logo": "https://media.api-sports.io/football/teams/1460.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 825283,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T20:00:00+00:00",
+      "timestamp": 1644868800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 66,
+        "name": "Estadio Guillermo Laza",
+        "city": "Capital Federal, Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 129,
+      "name": "Primera B Nacional",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/129.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2022,
+      "round": "Regular Season - 1"
+    },
+    "teams": {
+      "home": {
+        "id": 476,
+        "name": "Deportivo Riestra",
+        "logo": "https://media.api-sports.io/football/teams/476.png",
+        "winner": null
+      },
+      "away": {
+        "id": 475,
+        "name": "Santamarina",
+        "logo": "https://media.api-sports.io/football/teams/475.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 825287,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T20:00:00+00:00",
+      "timestamp": 1644868800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 5957,
+        "name": "Estadio Dr. Osvaldo Francisco Baletto",
+        "city": "Avellaneda, Provincia de Buenos Aires"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 129,
+      "name": "Primera B Nacional",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/129.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2022,
+      "round": "Regular Season - 1"
+    },
+    "teams": {
+      "home": {
+        "id": 1932,
+        "name": "San Telmo",
+        "logo": "https://media.api-sports.io/football/teams/1932.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1946,
+        "name": "Chaco For Ever",
+        "logo": "https://media.api-sports.io/football/teams/1946.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 708244,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T20:15:00+00:00",
+      "timestamp": 1644869700,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 3420,
+        "name": "Kiryat-Shmona Municipal Stadium",
+        "city": "Kiryat-Shmona"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 383,
+      "name": "Ligat ha'Al",
+      "country": "Israel",
+      "logo": "https://media.api-sports.io/football/leagues/383.png",
+      "flag": "https://media.api-sports.io/flags/il.svg",
+      "season": 2021,
+      "round": "Regular Season - 22"
+    },
+    "teams": {
+      "home": {
+        "id": 4510,
+        "name": "Ironi Kiryat Shmona",
+        "logo": "https://media.api-sports.io/football/teams/4510.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4195,
+        "name": "Maccabi Haifa",
+        "logo": "https://media.api-sports.io/football/teams/4195.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 731475,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T20:15:00+00:00",
+      "timestamp": 1644869700,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1275,
+        "name": "Estádio Municipal de Arouca",
+        "city": "Arouca"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 94,
+      "name": "Primeira Liga",
+      "country": "Portugal",
+      "logo": "https://media.api-sports.io/football/leagues/94.png",
+      "flag": "https://media.api-sports.io/flags/pt.svg",
+      "season": 2021,
+      "round": "Regular Season - 22"
+    },
+    "teams": {
+      "home": {
+        "id": 240,
+        "name": "Arouca",
+        "logo": "https://media.api-sports.io/football/teams/240.png",
+        "winner": null
+      },
+      "away": {
+        "id": 214,
+        "name": "Maritimo",
+        "logo": "https://media.api-sports.io/football/teams/214.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 821767,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T20:15:00+00:00",
+      "timestamp": 1644869700,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 2241,
+        "name": "UWI/JFF Captain Horace Burrell Centre of Excellence",
+        "city": "Kingston"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 322,
+      "name": "Premier League",
+      "country": "Jamaica",
+      "logo": "https://media.api-sports.io/football/leagues/322.png",
+      "flag": "https://media.api-sports.io/flags/jm.svg",
+      "season": 2021,
+      "round": "Regular Season - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 3436,
+        "name": "Arnett Gardens",
+        "logo": "https://media.api-sports.io/football/teams/3436.png",
+        "winner": null
+      },
+      "away": {
+        "id": 6408,
+        "name": "Vere United",
+        "logo": "https://media.api-sports.io/football/teams/6408.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 828404,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T21:00:00+00:00",
+      "timestamp": 1644872400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 333,
+        "name": "Estadio Bicentenario Municipal Nelson Oyarzún",
+        "city": "Chillán"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 265,
+      "name": "Primera Division",
+      "country": "Chile",
+      "logo": "https://media.api-sports.io/football/leagues/265.png",
+      "flag": "https://media.api-sports.io/flags/cl.svg",
+      "season": 2022,
+      "round": "Regular Season - 2"
+    },
+    "teams": {
+      "home": {
+        "id": 2337,
+        "name": "Nublense",
+        "logo": "https://media.api-sports.io/football/teams/2337.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2326,
+        "name": "Union La Calera",
+        "logo": "https://media.api-sports.io/football/teams/2326.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 824209,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T21:30:00+00:00",
+      "timestamp": 1644874200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Unidad Deportiva San José del Valle",
+        "city": "San José del Valle"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 722,
+      "name": "Liga Premier Serie A",
+      "country": "Mexico",
+      "logo": "https://media.api-sports.io/football/leagues/722.png",
+      "flag": "https://media.api-sports.io/flags/mx.svg",
+      "season": 2021,
+      "round": "Clausura - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 17790,
+        "name": "Tritons Vallarta",
+        "logo": "https://media.api-sports.io/football/teams/17790.png",
+        "winner": null
+      },
+      "away": {
+        "id": 15919,
+        "name": "Atlético Saltillo",
+        "logo": "https://media.api-sports.io/football/teams/15919.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 825271,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T22:15:00+00:00",
+      "timestamp": 1644876900,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 94,
+        "name": "Estadio República de Mataderos",
+        "city": "Capital Federal, Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 129,
+      "name": "Primera B Nacional",
+      "country": "Argentina",
+      "logo": "https://media.api-sports.io/football/leagues/129.png",
+      "flag": "https://media.api-sports.io/flags/ar.svg",
+      "season": 2022,
+      "round": "Regular Season - 1"
+    },
+    "teams": {
+      "home": {
+        "id": 484,
+        "name": "Nueva Chicago",
+        "logo": "https://media.api-sports.io/football/teams/484.png",
+        "winner": null
+      },
+      "away": {
+        "id": 470,
+        "name": "Ferro Carril Oeste",
+        "logo": "https://media.api-sports.io/football/teams/470.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 823438,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T23:00:00+00:00",
+      "timestamp": 1644879600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 371,
+        "name": "Estadio Metropolitano de Techo",
+        "city": "Bogotá, D.C."
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 240,
+      "name": "Primera B",
+      "country": "Colombia",
+      "logo": "https://media.api-sports.io/football/leagues/240.png",
+      "flag": "https://media.api-sports.io/flags/co.svg",
+      "season": 2022,
+      "round": "Apertura - 4"
+    },
+    "teams": {
+      "home": {
+        "id": 1458,
+        "name": "Bogota FC",
+        "logo": "https://media.api-sports.io/football/teams/1458.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1467,
+        "name": "Valledupar",
+        "logo": "https://media.api-sports.io/football/teams/1467.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 828407,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-14T23:30:00+00:00",
+      "timestamp": 1644881400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 323,
+        "name": "Estadio El Cobre",
+        "city": "El Salvador, Diego de Almagro"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 265,
+      "name": "Primera Division",
+      "country": "Chile",
+      "logo": "https://media.api-sports.io/football/leagues/265.png",
+      "flag": "https://media.api-sports.io/flags/cl.svg",
+      "season": 2022,
+      "round": "Regular Season - 2"
+    },
+    "teams": {
+      "home": {
+        "id": 2331,
+        "name": "Cobresal",
+        "logo": "https://media.api-sports.io/football/teams/2331.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2316,
+        "name": "Curico Unido",
+        "logo": "https://media.api-sports.io/football/teams/2316.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]
